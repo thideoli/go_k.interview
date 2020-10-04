@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="content_description">Descrição do conteúdo</string>
+    <string name="no_internet_connection">Sem conexão de internet</string>
+    <string name="unknown_error">Erro desconhecido</string>
+    <string name="title_session_three">Produtos</string>
+    <string name="title_session_two_cash">Cash</string>
+    <string name="title_session_two_digio">digio</string>
+    <string name="greeting">Olá, %s</string>
+    <string name="neutral_button_dialog">OK</string>
+    <string name="try_again">Tente novamente</string>
+</resources>
